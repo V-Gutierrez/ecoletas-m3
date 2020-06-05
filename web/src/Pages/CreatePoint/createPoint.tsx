@@ -115,7 +115,7 @@ const CreatePoint = () => {
         console.log(selectedItems);
     };
 
-    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
 
         const { name, email, whatsapp } = formData;
@@ -134,10 +134,12 @@ const CreatePoint = () => {
             long,
             items,
         };
-
-        api.post('points', data)
-            .then(() => history.push('/'))
-            .catch((err) => alert('erro'));
+        try {
+            await api.post('points', data);
+            history.push('/');
+        } catch (error) {
+            alert('erro');
+        }
     };
 
     return (
