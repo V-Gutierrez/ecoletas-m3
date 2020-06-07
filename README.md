@@ -109,7 +109,7 @@ A aplicação desenvolvida na NLW será um Marketplace de coleta de resíduos co
 
 ![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
 ![Image](https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg)
-![image](https://user-images.githubusercontent.com/62355596/83975134-266baf00-a8c0-11ea-86d2-e345e0ccf79d.jpeg)
+
 ![image](https://user-images.githubusercontent.com/62355596/83975134-266baf00-a8c0-11ea-86d2-e345e0ccf79d.jpeg)
 ![image](https://user-images.githubusercontent.com/62355596/83975247-f4a71800-a8c0-11ea-8e8e-79bcd9374c33.png)
 ![image](https://user-images.githubusercontent.com/62355596/83975267-07215180-a8c1-11ea-91d7-6b13e90a53fe.png)
