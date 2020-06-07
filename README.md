@@ -96,15 +96,10 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
   <img src="markdown/image/ecoleta_logo.png">
 </p>
 
-<p align="center">
-  <img src="(https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg">
-</p>
-<p align="center">
-  <img src="(https://user-images.githubusercontent.com/62355596/83974916-b872b800-a8be-11ea-981f-05a586b66f60.jpeg">
-</p>
-<p align="center">
-  <img src="(https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg">
-</p>
+![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
+![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
+![Image](https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg)
+
 
 
 A aplicação desenvolvida na NLW será um Marketplace de coleta de resíduos com o objetivo de ajudar pessoas a encontrarem pontos de coleta de forma eficiente
