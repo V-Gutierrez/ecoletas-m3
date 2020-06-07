@@ -96,9 +96,8 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
   <img src="markdown/image/ecoleta_logo.png">
 </p>
 
-![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
-![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
-![Image](https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg)
+
+
 
 
 
@@ -108,7 +107,10 @@ A aplicação desenvolvida na NLW será um Marketplace de coleta de resíduos co
   <img src="markdown/image/web.png">
 </p>
 
-Para visualizar a prototipação completa do projeto [clique aqui](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
+![Image](https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg)
+![Image](https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg)
+![image](https://user-images.githubusercontent.com/62355596/83975134-266baf00-a8c0-11ea-86d2-e345e0ccf79d.jpeg)
+
 
 ## Iniciando o **Node.JS**
 ### Para iniciar um projeto node utilizar:
