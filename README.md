@@ -76,10 +76,10 @@ $ npm run knex:seed
 ## Índice
 
 * Day 1: Ambiente
-* [Day 2](markdown/day2.md): API
-* [Day 3](markdown/day3.md): Web
-* [Day 4](markdown/day4.md): Mobile
-* [Day 5](markdown/day5.md): Extras
+* Day 2: API
+* Day 3: Web
+* Day 4: Mobile
+* Day 5: Extras
 
 ## :bangbang: Chega de enrolação!
 Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
@@ -89,13 +89,23 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 #### *Sinta-se livre para colaborar, toda ajuda é bem vinda ;)*
 <br/>
 
-# Day 1
 
 ## :camera: A aplicação
 
 <p align="center">
   <img src="markdown/image/ecoleta_logo.png">
 </p>
+
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/62355596/83974915-b7418b00-a8be-11ea-858c-4dcecb71cfec.jpeg">
+</p>
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/62355596/83974916-b872b800-a8be-11ea-981f-05a586b66f60.jpeg">
+</p>
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/62355596/83974917-b872b800-a8be-11ea-86b0-61882893d0d3.jpeg">
+</p>
+
 
 A aplicação desenvolvida na NLW será um Marketplace de coleta de resíduos com o objetivo de ajudar pessoas a encontrarem pontos de coleta de forma eficiente
 
