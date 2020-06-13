@@ -10,9 +10,9 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
 <br/>
 
-#   :computer: Tecnologias
+#   :computer: --Tecnologias
 
-##  API
+## -- API
 * [Node.JS](https://nodejs.org/en/docs/)
 * [Express](https://expressjs.com/)
 * [TypeScript](https://www.typescriptlang.org/)
@@ -21,14 +21,14 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 * [Multer](https://www.npmjs.com/package/multer)
 * [Cors](https://github.com/expressjs/cors)
 
-##  Web
+##  --Web
 * [ReactJS](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Leaflet](https://leafletjs.com/)
 * [ReactDropzone](https://react-dropzone.js.org/)
 * [Axios](https://github.com/axios/axios)
 
-##  Mobile
+## -- Mobile
 * [React Native](https://reactnative.dev/)
 * [Expo](https://docs.expo.io/)
 * [Axios](https://github.com/axios/axios)
@@ -37,43 +37,43 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
 <br/>
 
-# :green_book: O repositório
+# :green_book:-- O repositório
 "Faaaaaala dev!"
 Bom... O objetivo deste arquivo é anotar informações importantes destacadas durante o andamento das aulas. O arquivo será distribuído nos canais de aprendizado com o intuito de auxiliar devs após o fechamento das aulas, para que você possa continuar codando e desenvolvendo projetos Node.JS (pensando na experiência própria de esquecer diversas configurações, comandos ou conceitos semanas depois de uma semana omnistack), até o momento em que esteja tudo na memória. Algo totalmente pensado de dev para dev, um pouco trabalhoso (uma aula de 2 horas acaba durando umas 5/6 horas, alias, também estou aprendendo e por isso suas contribuições e correções são extremamente valiosas), mas uma iniciativa para realmente ajudar e motivar a comunidade, feito com muito carinho. 
 
 Para rodar a aplicação: 
 
-## Instalando dependencias
+## --Instalando dependencias
 ```
 $ npm install
 ```
 
-## Api
+## --Api
 ```bash
 $ npm run dev
 # ou
 $ yarn dev
 ```
 
-## Web
+## --Web
 ```bash
 $ npm start
 ``` 
 
-## Mobile
+## --Mobile
 ```bash
 $ npm start
 # ou 
 $ expo start
 ```
 
-## SQLite
+##-- SQLite
 ```
 $ npm run nkex:migrate
 $ npm run knex:seed
 ```
 
-## Índice
+## --Índice
 
 * Day 1: Ambiente
 * Day 2: API
@@ -81,7 +81,7 @@ $ npm run knex:seed
 * Day 4: Mobile
 * Day 5: Extras
 
-## :bangbang: Chega de enrolação!
+## :bangbang:-- Chega de enrolação!
 Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 
 *Este conteúdo esta sendo desenvolvido com base nas aulas do modulo **Booster***
@@ -90,7 +90,7 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 <br/>
 
 
-## :camera: A aplicação
+## :camera:-- A aplicação
 
 <p align="center">
   <img src="markdown/image/ecoleta_logo.png">
