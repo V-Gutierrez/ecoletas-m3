@@ -1,4 +1,4 @@
-# :rocket: NextLevelWeek 1.0 
+#  :rocket: NextLevelWeek 1.0 
 
 ## **"O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."**
 
@@ -10,9 +10,9 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
 <br/>
 
-# :computer: Tecnologias
+#   :computer: Tecnologias
 
-## API
+##  API
 * [Node.JS](https://nodejs.org/en/docs/)
 * [Express](https://expressjs.com/)
 * [TypeScript](https://www.typescriptlang.org/)
@@ -21,14 +21,14 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 * [Multer](https://www.npmjs.com/package/multer)
 * [Cors](https://github.com/expressjs/cors)
 
-## Web
+##  Web
 * [ReactJS](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Leaflet](https://leafletjs.com/)
 * [ReactDropzone](https://react-dropzone.js.org/)
 * [Axios](https://github.com/axios/axios)
 
-## Mobile
+##  Mobile
 * [React Native](https://reactnative.dev/)
 * [Expo](https://docs.expo.io/)
 * [Axios](https://github.com/axios/axios)
